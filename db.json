@@ -76,6 +76,13 @@
         "userType": 2,
         "name": "parent parent",
         "id": 12
+      },
+      {
+        "email": "teacher@teacher.com",
+        "password": "123",
+        "userType": 1,
+        "name": "teacher, teacher",
+        "id": 12
       }
     ],
     "userClasses": [
@@ -150,6 +157,11 @@
         "name": "3rd Grade",
         "userId": 10,
         "id": 13
+      },
+      {
+        "name": "7th Grade",
+        "userId": 12,
+        "id": 14
       }
     ],
     "supplyTypes": [
@@ -951,6 +963,14 @@
         "description": "3 inch blue",
         "classListId": 9,
         "id": 104
+      },
+      {
+        "number": "2",
+        "supplyItemId": 1,
+        "description": "mechanical",
+        "classListId": 14,
+        "id": 105
       }
+
     ]
   }
